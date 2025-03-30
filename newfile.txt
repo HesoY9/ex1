@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 this is edited
 a new change from vscode
+=======
+>>>>>>> parent of cadb882 (just changes)
